@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Stats>
+	<TellerID>0</TellerID>
+	<SubGroupID>0</SubGroupID>
+	<GroupID>4</GroupID>
+	<TicketNo>406</TicketNo>
+	<GroupInfo>
+		<Group id="1" name="   접수   " waitCount="13"></Group>
+		<Group id="2" name="    수납    " waitCount="4"></Group>
+		<Group id="3" name="입•퇴원" waitCount="2"></Group>
+		<Group id="4" name="  제증명  " waitCount="6"></Group>
+	</GroupInfo>
+</Stats>

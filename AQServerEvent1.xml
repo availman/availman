@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GroupSet>
+<Today>2021-06-02</Today>
+<ThisTime>12:31:55</ThisTime>
+<TotalWait>10</TotalWait>
+<Group>
+<ID>1</ID>
+<Name>일반</Name>
+<WaitNo>10</WaitNo>
+<LastCount>1</LastCount>
+<LastCallNo>11</LastCallNo>
+<LastPrintNo>0</LastPrintNo>
+</Group>
+</GroupSet>
